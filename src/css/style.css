@@ -1,0 +1,16 @@
+body {
+  color: #999;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.square {
+  border: white solid 1px;
+  background-color: grey;
+  width: 100px;
+  height: 100px;
+}
